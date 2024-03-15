@@ -1,2 +1,2 @@
-# facexformer_web
+# FaceXFormer Project Website
 Project page for FaceXFormer
